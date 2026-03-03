@@ -35,7 +35,7 @@ Downloads/
 ```
 ## Usage
 
-1. Download `organizer.bat` and place it anywhere, including inside your Downloads folder
+1. Download `file_organizer.bat` and place it anywhere, including inside your Downloads folder
 2. Double-click to run, or launch from Command Prompt:
 3. Check `changelog.txt` for a full record of what was moved.
 
