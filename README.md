@@ -31,8 +31,8 @@ Downloads/
 ├── MediumFiles/     # unrecognised files between 1 MB and 100 MB
 ├── LargeFiles/      # unrecognised files over 100 MB
 └── changelog.txt    # full run log
-```
 
+```
 ## Usage
 
 1. Download `organizer.bat` and place it anywhere, including inside your Downloads folder
